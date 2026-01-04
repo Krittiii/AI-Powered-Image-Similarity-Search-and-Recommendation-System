@@ -26,3 +26,4 @@ Example 2:
 
 Kuo, Chien-Hao, Yang-Ho Chou and Pao-Chi Chang. “Using Deep Convolutional Neural Networks for Image Retrieval.” Visual Information Processing and Communication (2016). [LINK](http://vaplab.ee.ncu.edu.tw/english/pcchang/pdf/c125.pdf)
 
+
